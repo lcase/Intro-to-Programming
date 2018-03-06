@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+          <title>Notes</title>
+    </head>
+    <body>
+          <div>
+              <h1>Getting started with HTML (Hyperlink Text Markup Language) notes</h1>
+              <h4>Useful HTLM links:</h4>
+              <p>
+                  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+                    HTML | MDN</a> <br>
+                  <a href ="https://www.w3schools.com/html/default.asp">
+                    HTML 5 Tutorial</a>
+              </p>
+          </div>
+          <div>
+              <h4>Elements: Rectangular </h4>
+              <h4>Inline Elements</h4>
+              <p>
+                  Examples of Inline Elements:<br>
+                  br - break <br>
+                  b - bold<br>
+                  em - italic (emphasize)<br>
+                  image - used to embed an image<br>
+              </p>
+              <h4>Block Elements create an invisible box on the web page
+                  with Height and Width</h4>
+              <p>
+                  Example of Block Elements:<br>
+                  p - paragraph<br>
+                  div - used to group block elements<br>
+                  span - used to group inline elements<br>
+              <p>
+          </div>
+          <div>
+              <h4>HTML Documents</h4>
+              <p>
+                  HTML documents contain DOCTYPE of HTML, a header, and a body<br>
+                  The header contains the title, which is what shows at the top of the
+                  browser tab<br>
+                  The body contains the content of the web page
+              </p>
+          </div>
+    </body>
+</html>
+
+
